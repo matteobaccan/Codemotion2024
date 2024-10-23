@@ -6,8 +6,7 @@ Gregorio Piccoli, Michele Sciabarra, Matteo Baccan, Jacopo Nardiello
 
 In un panorama tecnologico globale caratterizzato dalla presenza di grandi player internazionali, l'ecosistema cloud italiano si sta facendosi strada come un centro di innovazione, superando le aspettative e avendo la sua parte negli standard nel settore. Questo panel riunisce rappresentanti di diverse realtà italiane per esplorare l'avanguardia tecnologica del cloud made in Italy, evidenziando la complessità e la flessibilità delle soluzioni sviluppate nel nostro paese.
 
-Sala SAGITTARIUS
-mer 15:30 - 16:15
+Sala SAGITTARIUS - Mercoledì 23 Ottobre 2024 - Ore 15:30 - 16:15
 
 __[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/Codemotion2024/main/Cloud+italiano.pptx)__
 
