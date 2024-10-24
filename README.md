@@ -11,7 +11,7 @@ In un panorama tecnologico globale caratterizzato dalla presenza di grandi playe
 
 Sala SAGITTARIUS - Mercoledì 23 Ottobre 2024 - Ore 15:30 - 16:15
 
-__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/Codemotion2024/main/Cloud+italiano.pptx)__
+__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/Codemotion2024/main/Cloud italiano.pptx)__
 
 ## Slide scartate
 
