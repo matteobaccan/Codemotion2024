@@ -26,3 +26,9 @@ __[La storia di Mario](https://raw.githubusercontent.com/matteobaccan/Codemotion
 Il panel era un dibattito fra sostenitori del serverless/cloud, che venivano incalzati da domande di aziende che erano contrarie o si erano trovate male con queste architetture.
 
 Il mio ruolo era quello di contestare le scelte per far capire che non basta dire "sono serverless" o "sono in cloud", occorre un cambio di approccio per poter sfruttare a pieno questo tipo di architetture.
+
+## Eventi
+
+Se volete rimanre aggiornati sugli eventi ai quali partecipo potete guardare questo repository
+
+[Tutti i miei eventi](https://github.com/matteobaccan/Eventi)
