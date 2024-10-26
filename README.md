@@ -11,7 +11,7 @@ In un panorama tecnologico globale caratterizzato dalla presenza di grandi playe
 
 Sala SAGITTARIUS - Mercoledì 23 Ottobre 2024 - Ore 15:30 - 16:15
 
-__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/Codemotion2024/main/Cloud+italiano.pptx)__
+__[Scarica gratuitamente le slide](https://raw.githubusercontent.com/matteobaccan/Codemotion2024/main/Cloud%20italiano.pptx)__
 
 ## Slide scartate
 
@@ -26,6 +26,12 @@ __[La storia di Mario](https://raw.githubusercontent.com/matteobaccan/Codemotion
 Il panel era un dibattito fra sostenitori del serverless/cloud, che venivano incalzati da domande di aziende che erano contrarie o si erano trovate male con queste architetture.
 
 Il mio ruolo era quello di contestare le scelte per far capire che non basta dire "sono serverless" o "sono in cloud", occorre un cambio di approccio per poter sfruttare a pieno questo tipo di architetture.
+
+## Eventi
+
+Se volete rimanere aggiornati sugli eventi ai quali partecipo potete guardare questo repository
+
+[Tutti i miei eventi](https://github.com/matteobaccan/Eventi)
 
 ## Qualche foto
 
