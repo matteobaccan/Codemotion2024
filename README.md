@@ -27,6 +27,12 @@ Il panel era un dibattito fra sostenitori del serverless/cloud, che venivano inc
 
 Il mio ruolo era quello di contestare le scelte per far capire che non basta dire "sono serverless" o "sono in cloud", occorre un cambio di approccio per poter sfruttare a pieno questo tipo di architetture.
 
+## Votazione
+
+Alla fine del panel c'è stata una votazione per capire se il pubblico fosse più propenso a scegliere soluzioni cloud/serverless o soluzioni tradizionali.
+
+![Votazione](foto/votazione.png)
+
 ## Eventi
 
 Se volete rimanere aggiornati sugli eventi ai quali partecipo potete guardare questo repository
