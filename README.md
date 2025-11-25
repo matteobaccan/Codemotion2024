@@ -41,6 +41,15 @@ Se volete rimanere aggiornati sugli eventi ai quali partecipo potete guardare qu
 
 ## Qualche foto
 
+![Noi quattro](foto/1598-MD.jpg)
+*Noi quattro*
+
+![Io (seduto) e Gregorio a parlare](foto/1601-MD.jpg)
+*Io (seduto) e Gregorio a parlare*
+
+![Michele risponde a una mia domanda](foto/1609-MD.jpg)
+*Michele risponde a una mia domanda*
+
 ![Foto2](foto/welcome.jpg)
 ![Foto1](foto/badge.jpg)
 ![Foto3](foto/goodbye.jpg)
